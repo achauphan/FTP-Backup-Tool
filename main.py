@@ -8,7 +8,6 @@ from input_handler import start
 ftp = FTP()
 
 
-# 192.168.0.34
 def main():
     global ftp
     profile_data = start()
