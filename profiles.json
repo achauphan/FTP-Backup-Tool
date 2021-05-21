@@ -1,0 +1,10 @@
+{
+  "example": [
+    {
+      "host": "example_hostname",
+      "username": "example",
+      "ftp_backup_path": "/",
+      "local_backup_path": "./backups"
+    }
+  ]
+}
